@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/detal.az/frontend/app/layout.jsx"],"sourcesContent":["export default function AppLayout({ children }) {\n  return <div className=\"min-h-screen bg-slate-100 text-slate-900\">{children}</div>;\n}\n"],"names":["AppLayout","children","className"],"mappings":";;;;;;AAAe,SAASA,UAAU,EAAEC,QAAQ,EAAE;IAC5C,qBAAO,0PAAC;QAAIC,WAAU;kBAA4CD;;;;;;AACpE"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/detal.az/frontend/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,qIACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

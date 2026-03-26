@@ -1,6 +1,12 @@
+/** @type {import('tailwindcss').Config} */
 export default {
-  plugins: {
-    "@tailwindcss/postcss": {},
-    autoprefixer: {},
+  content: [
+    "./index.html",
+    "./app/**/*.{js,jsx,ts,tsx}",
+    "./components/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
   },
+  plugins: [],
 }
